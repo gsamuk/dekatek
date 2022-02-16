@@ -1,2 +1,2 @@
 # dekatek
-Dekatek Yazılım
+Dekatek Yazılım ve burada
