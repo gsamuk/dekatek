@@ -1,0 +1,2 @@
+# dekatek
+Dekatek Yazılım
